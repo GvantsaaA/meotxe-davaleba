@@ -1,0 +1,184 @@
+
+@font-face {
+    font-family: "pirveli";
+    src: url(./Atkinson-Hyperlegible-Bold-102a.woff2);
+    }
+
+@font-face {
+    font-family: "meore";
+    src: url(./Atkinson-Hyperlegible-Regular-102a.woff2);
+ }
+
+body{
+    background-color: #f3eee4;
+    
+    height: 100vh;
+}
+
+
+    .card{
+        margin: 20px;
+    }
+
+.berik{
+    padding-top: 0px;
+}
+
+.mtavari{
+    margin: 70px;
+}
+
+
+.prog{
+    margin-left: 14px;
+    
+}
+
+.jan{
+    margin-left: 14px;
+}
+
+h1 {
+    color: #1c2334;
+    font-family: "pirveli";
+}
+
+h2 {
+    color: #1c2334;
+    font-family: "pirveli";
+    font-size: 35px;
+    line-height: 30px;
+}
+
+.pirveli {
+
+    font-family: "pirveli";
+color: #1c2334;
+padding-bottom: 40px;
+font-size: 80px;
+
+}
+
+.meore {
+    display: block;
+    font-family: "pirveli";
+}
+
+
+
+.satauri {
+    
+    padding: 70px 70px 70px 70px;
+    background-color: #e5bf55;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: block;
+}
+
+p{
+    color: #bb1450 ;
+    font-family: "meore";
+    font-size: 17px;
+    line-height: 0px;
+
+    
+}
+
+.bol{
+    color: transparent;
+}
+
+.pirvbut{
+  margin-top: 50px; 
+  
+  
+    
+}
+
+.erti{
+    margin-right: 4px;
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 35px;
+    border-radius: 20px;
+    color: white;
+    background-color: #1c2334;
+    border: #1c2334;
+
+}
+
+.ori{
+    margin-left: 4px;
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 35px;
+    border-radius: 20px;
+    color: #1c2334;
+    background-color: #e5bf55;
+    border: solid 1,5px #1c2334;
+
+}
+
+.gvants{
+    margin-bottom: 58px;
+    margin-left: 15px;
+}
+
+.spanebi{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #1c2334;
+   
+}
+
+span{
+    color: #1c2334;
+    font-size: 20px;
+    
+}
+
+.pirvelii{
+    color: #1c2334;
+}
+
+.meoree{
+    margin-left: 10px;
+    color: #1c2334;
+}
+
+.mesamee{
+    margin-left: 10px;
+    color: #1c2334;
+ 
+}
+
+.meotxee{
+    margin-left: 10px;
+    color: #1c2334;
+    
+}
+
+.mexutee{
+    margin-left: 10px;
+    color: #1c2334;
+    
+}
+
+.meeqvsee{
+    color: #1c2334;
+}
+
+.meshvidee{
+    
+    margin-left: 10px;
+    color: #1c2334;
+}
+
+.mervee{
+    
+    margin-left: 10px;
+    color: #1c2334;
+}
