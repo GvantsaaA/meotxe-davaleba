@@ -1,0 +1,633 @@
+
+@font-face {
+    font-family: "pirveli";
+    src: url(./Atkinson-Hyperlegible-Bold-102a.woff2);
+    }
+
+@font-face {
+    font-family: "meore";
+    src: url(./Atkinson-Hyperlegible-Regular-102a.woff2);
+ }
+
+body{
+    background-color: #f3eee4;
+    height: 100vh;
+    margin: 0px;
+}
+
+
+
+.pretty{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik{
+    padding-top: 0px;
+    
+}
+   
+
+
+.pretty1{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik1{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty2{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik2{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty3{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik3{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty4{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik4{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty5{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik5{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty6{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik6{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty7{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik7{
+    padding-top: 0px;
+}
+
+
+
+.pretty8{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik8{
+    padding-top: 0px;
+}
+
+
+
+.pretty9{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik9{
+    padding-top: 0px;
+}
+
+
+
+.pretty10{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik10{
+    padding-top: 0px;
+}
+
+
+.pretty11{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik11{
+    padding-top: 0px;
+}
+
+
+
+.pretty12{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik12{
+    padding-top: 0px;
+}
+
+
+
+.pretty13{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik13{
+    padding-top: 0px;
+}
+
+
+
+.pretty14{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik14{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty15{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik15{
+    padding-top: 0px;
+}
+
+
+
+.pretty16{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik16{
+    padding-top: 0px;
+}
+
+
+
+.pretty17{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik17{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty18{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik18{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty19{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik19{
+    padding-top: 0px;
+}
+
+
+
+.pretty20{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik20{
+    padding-top: 0px;
+}
+
+
+
+.pretty21{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik21{
+    padding-top: 0px;
+}
+
+
+
+.pretty22{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik22{
+    padding-top: 0px;
+}
+
+
+
+.pretty23{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik23{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty24{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik24{
+    padding-top: 0px;
+}
+
+
+
+.pretty25{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik25{
+    padding-top: 0px;
+}
+
+
+
+.pretty26{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik26{
+    padding-top: 0px;
+}
+
+
+
+.pretty27{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik27{
+    padding-top: 0px;
+}
+
+
+
+.pretty28{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik28{
+    padding-top: 0px;
+}
+
+
+
+
+.pretty29{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik29{
+    padding-top: 0px;
+}
+
+
+
+.pretty30{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+.berik30{
+    padding-top: 0px;
+}
+
+
+.reme{
+    font-size: 20px;
+}
+
+
+.mtavari{
+    margin: 70px;
+}
+
+
+.image{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+
+}
+
+.teqsti{
+    margin-right: 120px;
+}
+
+
+.imij{
+   
+    background-color: #f3eee4;
+    width: 340px;
+    height: 205px;
+
+
+}
+
+img{
+    border-radius: 10px;
+}
+
+
+h1 {
+    color: #1c2334;
+    font-family: "pirveli";
+}
+
+h2 {
+    color: #2b354d;
+    font-family: "pirveli";
+    font-size: 45px;
+    line-height: 30px;
+}
+
+.pirveli {
+
+    font-family: "pirveli";
+    color: #1c2334;
+    padding-bottom: 40px;
+    font-size: 65px;
+
+}
+
+.meore {
+    display: block;
+    font-family: "pirveli";
+}
+
+
+
+.yviteliyuti {
+    margin-top: 90px;
+    height: 500px;
+    width: 100%;
+    background-color: #e5bf55;
+   
+}
+
+
+.eij{
+    font-family: "pirveli";
+}
+
+.yutis1{ 
+    
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    padding-top: 45px;
+    
+}
+
+.yutis2{
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+}
+
+.yutis3{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+u{
+    text-decoration: underline #bb1450;
+    
+}
+
+.website{
+    display: flex;
+    justify-content: center;
+}
+
+
+.ertibut{
+    margin: 7px;
+}
+
+.oribut{
+    margin: 7px;
+}
+
+
+
+.erti{
+    
+    color: white;
+    background-color: #1c2334;
+    border: solid #f56ce9 0.8px;
+    border-radius: 25px;
+
+    font-size: 20px;
+    font-family: "pirveli";
+    padding-top: 13px;
+    padding-left: 40px;
+    padding-bottom: 12px;
+    padding-right: 40px
+    
+    
+    }
+
+    .ori{
+
+        
+        border: solid #1c2334 2px;
+        border-radius: 25px;
+
+        background-color: #e5bf55;
+        color: #1c2334;
+
+      
+        font-size: 20px;
+        font-family: "pirveli";
+       
+        padding-top: 12px;
+        padding-left: 40px;
+        padding-bottom: 11px;
+        padding-right: 40px
+        
+       
+
+
+
+        }
+
+
+
+
+
+p{
+    color: #bb1450 ;
+    font-family: "meore";
+    font-size: 20px;
+    line-height: 0px;
+
+    
+}
+
+
+
+
+
+
+.spanebi{
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #1c2334;
+    font-size: 18px;
+    font-family: "pirveli";
+    
+}
+
+.pirveliklasi{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    
+}
+
+.pirveliklasi1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+span{
+    color: #1c2334;
+    
+    
+}
+
+
+
+.pirvelii{
+    color: #1c2334;
+    text-decoration: none;
+}
+
+.meoree{
+    margin-left: 40px;
+    color: #1c2334;
+    text-decoration: none;
+}
+
+.mesamee{
+    margin-left: 40px;
+    color: #1c2334;
+    text-decoration: none;
+}
+
+.meotxee{
+    margin-left: 40px;
+    color: #1c2334;
+    text-decoration: none;
+}
+
+.mexutee{
+    margin-left: 40px;
+    color: #1c2334;
+    text-decoration: none;
+}
+
+.meeqvsee{
+    color: #1c2334;
+    text-decoration: none;
+}
+
+.meshvidee{
+    margin-left: 40px;
+    color: #1c2334;
+    text-decoration: none;
+}
+
+.mervee{
+    margin-left: 40px;
+    color: #1c2334;
+    text-decoration: none;
+}
+
+
+.carieli{
+    width: 100%;
+    height: 110px;
+    background-color: #f3eee4;
+}
